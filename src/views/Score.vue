@@ -39,7 +39,7 @@ export default defineComponent({
     }
   },
   created() {
-       axios.get('http://localhost:3000/devinette?_sort=score&_order=desc')
+       axios.get('http://localhost:3000/devinette?_sort=score,timing&_order=desc,asc')
                     .then(response=>this.joueurs=response.data)
     
   }, 
