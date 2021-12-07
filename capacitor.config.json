@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "tp09-feriel",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

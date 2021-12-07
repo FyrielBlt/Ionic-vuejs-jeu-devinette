@@ -1,0 +1,7 @@
+{
+  "name": "tp09-feriel",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
